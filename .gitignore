@@ -1,0 +1,6 @@
+.vagrant
+.terraform
+
+bin/nomad
+bin/vault
+bin/consul
